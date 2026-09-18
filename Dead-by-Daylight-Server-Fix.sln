@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dead-by-Daylight-Server-Fix", "Dead-by-Daylight-Server-Fix\Dead-by-Daylight-Server-Fix.csproj", "{C5C39CA0-2C3D-4BF8-8592-A7ED0B5C7E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dead-by-Daylight-Server-Fix.Core", "Dead-by-Daylight-Server-Fix.Core\Dead-by-Daylight-Server-Fix.Core.csproj", "{491597B6-931D-42E0-AA90-D18CA5A6525F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C39CA0-2C3D-4BF8-8592-A7ED0B5C7E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C39CA0-2C3D-4BF8-8592-A7ED0B5C7E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C39CA0-2C3D-4BF8-8592-A7ED0B5C7E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C39CA0-2C3D-4BF8-8592-A7ED0B5C7E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491597B6-931D-42E0-AA90-D18CA5A6525F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491597B6-931D-42E0-AA90-D18CA5A6525F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491597B6-931D-42E0-AA90-D18CA5A6525F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491597B6-931D-42E0-AA90-D18CA5A6525F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2354C2A-2226-4007-8AB5-54D65AB2B79E}
+	EndGlobalSection
+EndGlobal
